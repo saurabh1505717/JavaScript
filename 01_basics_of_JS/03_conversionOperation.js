@@ -23,7 +23,7 @@ let valueInNumber = Number(score)
 // let isLoggedIn = 1 // true
 // let isLoggedIn = "Saurabh" // true
 // let isLoggedIn="" //false
-let isLoggedIn; // false;
+let isLoggedIn; // false;  
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn)
 
